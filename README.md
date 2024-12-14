@@ -70,7 +70,16 @@ plt.show()
 
 ```
 ## Output
+### Terminal 
+```python
+Slope (m): 1.1696969696969697
+Intercept (b): 1.2363636363636363
+Predicted y values: [ 1.23636364  2.40606061  3.57575758  4.74545455  5.91515152  7.08484848
+  8.25454545  9.42424242 10.59393939 11.76363636]
+```
+![image](https://github.com/user-attachments/assets/ccdd9c62-cb55-4357-a163-14324165a8b5)
 ![image](https://github.com/user-attachments/assets/5bb2e797-6f4b-458b-b2ec-948fbf4d07b7)
+
 
 
 ## Result
